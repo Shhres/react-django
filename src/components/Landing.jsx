@@ -18,7 +18,7 @@ const Landing = () => {
       <div className="content">
         <h1 className="title">Welcome to Poultry Disease Detection</h1>
         <p className="description">
-          Welcome to our poultry disease detection system! Safeguard your flock
+          Welcome to my poultry disease detection system! Safeguard your flock
           with our Poultry Disease Detection System. This innovative solution
           empowers you to detect potential outbreaks early, minimize losses, and
           optimize flock health. Leverage our system to make informed decisions
