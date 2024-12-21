@@ -174,6 +174,7 @@ const UploadButton = ({ buttonText, onUpload }) => {
           )}
         </div>
       </div>
+      
     </>
   );
 };
@@ -183,5 +184,6 @@ UploadButton.propTypes = {
   icon: PropTypes.node,
   onUpload: PropTypes.func.isRequired,
 };
+
 
 export default UploadButton;

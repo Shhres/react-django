@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from './Navbar';
 import './about.css';
 import Chicken1 from '../assets/poultry.png';
+import Footer from './Footer';
 
 const About = () => {
   return (
@@ -50,7 +51,9 @@ const About = () => {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
+
   );
 };
 export default About;
